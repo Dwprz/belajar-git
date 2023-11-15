@@ -1,0 +1,7 @@
+ Gitflow Workflow
+
+* Gitflow
+
+- Gitflow adalah strategi git branching yang paling tua dan paling banyak diadopsi
+
+- https://nvie.com/posts/a-successful-git-branching-model/ 

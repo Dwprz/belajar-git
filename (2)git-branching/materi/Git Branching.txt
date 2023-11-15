@@ -1,0 +1,38 @@
+Git Branching
+Eko Kurniawan Khannedy
+
+Eko Kurniawan Khannedy
+Technical architect at one of the biggest ecommerce company in Indonesia
+10+ years experiences
+www.programmerzamannow.com
+youtube.com/c/ProgrammerZamanNow
+
+Eko Kurniawan Khannedy
+Telegram : @khannedy
+Facebook : fb.com/ProgrammerZamanNow
+Instagram : instagram.com/programmerzamannow
+Youtube : youtube.com/c/ProgrammerZamanNow
+Telegram Channel : t.me/ProgrammerZamanNow
+Email : echo.khannedy@gmail.com
+
+
+
+
+Trunk Based Development
+
+Trunk Based Development
+Trunk Based Development sekarang merupakan salah satu strategi git branching yang sedang populer
+Tujuan dari workflow ini adalah, sederhana dan deliver pekerjaan secepatnya
+https://trunkbaseddevelopment.com/ 
+
+Forking Workflow
+
+Forking Workflow
+Forking workflow merupakan salah satu strategi git branching yang populer dalam project OpenSource
+Forking adalah mekanisme menduplikasi repository, biasanya hal ini dilakukan karena contributor tidak memiliki akses untuk melakukan perubahan ke repository utama
+https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow 
+
+Materi Selanjutnya
+
+Materi Selanjutnya
+Git Remote

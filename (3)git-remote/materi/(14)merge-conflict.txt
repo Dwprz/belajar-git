@@ -1,0 +1,26 @@
+ Merge Conflict
+
+* Merge Conflict
+
+- Ketika melakukan Pull Request, kadang sering terjadi Merge Conflict yang menyebabkan tidak bisa lakukan proses merge otomatis
+
+- Pada kasus seperti itu, kita perlu melakukan merge dari branch asal nya terlebih dahulu, lalu memperbaiki conflict nya
+
+*steps resolving conflict in local:
+
+- jika sudah di github error, kita bisa memeperbaiki conflict di local
+
+- tidak disarankan menggunakan pull jika terjadi conflict
+
+- git merge nama_remote/nama_branch_remote 
+  example: git merge origin/master
+
+- perbaiki conflict secara manual
+
+- git add .
+
+- git commit -m "message"
+
+- git push origin/master
+
+

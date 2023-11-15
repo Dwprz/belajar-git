@@ -1,0 +1,24 @@
+ Menambah File
+
+* Menambah File
+
+- Untuk menambah file baru ke Repository, kita cukup tambahkan file nya saja
+
+- Secara otomatis file yang kita tambahkan awalnya akan berada di working directory
+
+- Secara default saat menambah file baru, file tersebut tidak akan di track perubahannya
+
+- Agar perubahan di track, kita harus pindahkan dari working directory ke staging index
+
+Kode : Untracked Files
+
+Kode : Memindahkan ke Staging Index
+
+Kode : Commit ke Repository
+
+
+* Tugas
+
+- Tambah file2.txt, lalu commit ke Repository
+
+- Tambah file3.txt, lalu commit ke Repository
